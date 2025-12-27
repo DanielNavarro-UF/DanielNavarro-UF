@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey, I'm Daniel Navarro, a Computer Science student on UFABC
+I like to study technology, data and especially computer networks. I am currently studying computer science and increasing my skills on the programming area.
+Using this GitHub for: 
+- 📘 Save my studies
+- 🧠 Learn Git and GitHub
+- 🚀 Follow my evolution as a CS student
+-----
+### 🛠️ Technologies I'm learning
+- Python
+- SQL
+- Visual Studio Code
+- Git and Github
+-----
+### 📫 Where to find me
+💼​ 🔗 [Meu LinkedIn](www.linkedin.com/in/danielnascimentonavarro)
+📧 [dani.nnavarro@icloud.com](mailto:dani.nnavarro@icloud.com)
 
-<!--
-**DanielNavarro-UF/DanielNavarro-UF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
