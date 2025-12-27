@@ -12,7 +12,8 @@ Using this GitHub for:
 - Git and Github
 -----
 ### 📫 Where to find me
-💼​ 🔗 [Meu LinkedIn](www.linkedin.com/in/danielnascimentonavarro)
+💼​ 🔗 [LinkedIn](www.linkedin.com/in/
+danielnascimentonavarro)
 📧 [dani.nnavarro@icloud.com](mailto:dani.nnavarro@icloud.com)
 
 
