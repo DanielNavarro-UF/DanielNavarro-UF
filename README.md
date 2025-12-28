@@ -1,9 +1,9 @@
 ## 👋 Hey, I'm Daniel Navarro, a Computer Science student on UFABC
 I like to study technology, data and especially computer networks. I am currently studying computer science and increasing my skills on the programming area.
 Using this GitHub for: 
-- 📘 Save my studies
-- 🧠 Learn Git and GitHub
-- 🚀 Follow my evolution as a CS student
+- Save my studies
+- Learn Git and GitHub
+- Follow my evolution as a CS student
 -----
 ### 🛠️ Technologies I'm learning
 - Python
