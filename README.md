@@ -8,7 +8,7 @@ Using this GitHub for:
 ### 🛠️ Technologies I'm learning
 - Python
 - SQL
-- Visual Studio Code
+- Git and GitHub
 -----
 ### 📫 Where to find me
 💼​ [LinkedIn](https://www.linkedin.com/in/danielnascimentonavarro)
