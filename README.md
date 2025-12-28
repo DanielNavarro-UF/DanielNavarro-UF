@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Daniel Navarro, a Computer Science student on UFABC
+## 👋 Hey, I'm Daniel Navarro, a Computer Science student 
 I like to study technology, data and especially computer networks. I am currently studying computer science and increasing my skills on the programming area.
 Using this GitHub for: 
 - Save my studies
