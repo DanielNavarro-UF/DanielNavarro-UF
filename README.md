@@ -9,7 +9,6 @@ Using this GitHub for:
 - Python
 - SQL
 - Visual Studio Code
-- Git and Github
 -----
 ### 📫 Where to find me
 💼​ [LinkedIn](https://www.linkedin.com/in/danielnascimentonavarro)
