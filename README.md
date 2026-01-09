@@ -6,9 +6,13 @@ Using this GitHub for:
 - Follow my evolution as a CS student
 -----
 ### 🛠️ Technologies I'm learning
-- Python
+- Java
+- Springboot
+- Javascript
+- Typescript
+- React
 - SQL
-- Git and GitHub
+- Linux
 -----
 ### 📫 Where to find me
 💼​ [LinkedIn](https://www.linkedin.com/in/danielnascimentonavarro)
