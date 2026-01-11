@@ -3,6 +3,7 @@ I like to study technology, data and especially computer networks. I am currentl
 Using this GitHub for: 
 - Save my studies
 - Learn Git and GitHub
+- Learn important technologies and programming languages
 - Follow my evolution as a CS student
 -----
 ### 🛠️ Technologies I'm learning
