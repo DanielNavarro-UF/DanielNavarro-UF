@@ -3,7 +3,7 @@
 **`Computer Science Student`**
 
 Hey, I'm Daniel Navarro, a Computer Science student.  
-I like to study **technology, data**, and especially **computer networks**.  
+I like to study **technology**, especially **back-end**.  
 I am currently studying computer science and continuously improving my skills in the **programming area**.
 
 I use this GitHub to:
