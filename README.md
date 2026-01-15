@@ -1,29 +1,22 @@
 # 👨🏻‍💻 Daniel Navarro
 
-**`Computer Science Student`**
+**`Biomedical Engineering Sutdent`**
 
-Hey, I'm Daniel Navarro, a Computer Science student.  
+Hey, I'm Daniel Navarro, a Biomedical Engineering.  
 I like to study **technology**, especially **back-end development**.  
 I am currently studying computer science and continuously improving my skills in the **programming area**.
 
 I use this GitHub to:
 - Save my studies  
 - Learn Git and GitHub  
-- Learn important technologies and programming languages  
-- Follow my evolution as a Computer Science student  
+- Learn important technologies 
+- Save projects 
 
 ---
 
 ### 🤖 Languages & Technologies
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -40,14 +33,7 @@ I use this GitHub to:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
