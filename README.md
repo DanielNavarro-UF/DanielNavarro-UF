@@ -7,9 +7,9 @@ I like to study **technology**, especially **Machine Learning and AI** applied t
 I am currently studying biomedial engineering and continuously improving my skills in the **tech area**.
 
 I use this GitHub to:
-- Save my studies  
-- Learn Git and GitHub  
-- Learn important technologies 
+- Save my studies   
+- Learn important technologies
+- Follow my evolution as a tech student
 - Save projects 
 
 ---
