@@ -3,7 +3,7 @@
 **`Biomedical Engineering Sutdent`**
 
 Hey, I'm Daniel Navarro, a Biomedical Engineering.  
-I like to study **technology**, especially **Machine Learning** applied to medicine.  
+I like to study **technology**, especially **Machine Learning and AI** applied to medicine.  
 I am currently studying computer science and continuously improving my skills in the **tech area**.
 
 I use this GitHub to:
