@@ -3,8 +3,8 @@
 **`Biomedical Engineering Sutdent`**
 
 Hey, I'm Daniel Navarro, a Biomedical Engineering.  
-I like to study **technology**, especially **back-end development**.  
-I am currently studying computer science and continuously improving my skills in the **programming area**.
+I like to study **technology**, especially **Machine Learning** applied to medicine.  
+I am currently studying computer science and continuously improving my skills in the **tech area**.
 
 I use this GitHub to:
 - Save my studies  
@@ -42,6 +42,7 @@ I use this GitHub to:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+  
 
 <br/>
 <br/>
